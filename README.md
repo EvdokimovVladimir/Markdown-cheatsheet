@@ -237,18 +237,18 @@ call MPI_COMM_RANK(MPI_COMM_WORLD, myID, err)
 Формула в строке: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
 
 Формула на всю ширину:
-$$
+```math
 x = {-b \pm \sqrt{b^2-4ac} \over 2a}
-$$
-
 ```
+
+````
 Формула в строке: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
 
 Формула на всю ширину:
-$$
+```math
 x = {-b \pm \sqrt{b^2-4ac} \over 2a}
-$$
 ```
+````
 
 [Подробнее про LaTeX](https://en.wikibooks.org/wiki/LaTeX/Mathematics)
 

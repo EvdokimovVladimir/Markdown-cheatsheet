@@ -252,6 +252,8 @@ x = {-b \pm \sqrt{b^2-4ac} \over 2a}
 
 [Подробнее про LaTeX](https://en.wikibooks.org/wiki/LaTeX/Mathematics)
 
+[MathJax basic tutorial and quick reference](https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference/22395#22395)
+
 # Спойлеры
 
 <details><summary>Подробнее</summary>
